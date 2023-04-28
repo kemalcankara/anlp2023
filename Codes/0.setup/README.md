@@ -34,12 +34,6 @@ conda install matplotlib=3.4.2
 conda install pytorch=1.9.0 torchvision=0.10.0 torchaudio=0.9.0 -c pytorch
 ```
 
-# Install spaCy English model
-
-```sh
-python -m spacy download en_core_web_sm
-```
-
 # Use Jupyter notebooks
 
 That's it! Whenever you're ready to use a Jupyter notebook in this setup, open up the terminal and navigate to the folder containing the notebook; then activate the anlp environment to access these libraries and start up the notebook:
