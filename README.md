@@ -1,4 +1,5 @@
 # anlp2023
 Teknolojide İstihdam Projesi kapsamında verdiğim uygulamalı doğal dil işleme dersinin kod ve sunumlarını burada barındıracağım.
 
-<img width="636" alt="Screenshot 2023-04-28 at 18 03 04" src="https://user-images.githubusercontent.com/7814906/235184140-904d67f5-2762-4b9c-9caf-5da2e218ccf0.png">
+
+<img width="777" alt="Screenshot 2023-05-10 at 10 19 17" src="https://github.com/kemalcankara/anlp2023/assets/7814906/f73cb199-c6a1-4488-a130-8d94d8cf6bb5">
